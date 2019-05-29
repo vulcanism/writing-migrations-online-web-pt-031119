@@ -1,1 +1,1 @@
-AddGradeAndBirthdate < ActiveRecord::Migration
+AddGradeAndBirthdate < ActiveRecord::Migration[5.1]
